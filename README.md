@@ -4,7 +4,7 @@ Hoang Tung - htung@vnpt.vn
 
 1. Clone code project từ git
 ```console
-git clone https://github.com/cuongnm39/bai1.git
+git clone https://github.com/tung26091996/lab1-hoangtung-htung-vnpt.vn
 ```
 2. Buil docker và run
 ```console
